@@ -1,4 +1,8 @@
-# ImageClassification_HappyOrSad
+# 🎉 **Emotion Detection from Images**: Classify Happy or Sad Emotions in Pictures 😄😞
+
+## 🌟 **AI-Powered Image Classification** to Recognize Emotions from Faces
+
+### 🤖 **Using Deep Learning for Accurate Emotion Prediction**
 
 ## Mô tả dự án
 
