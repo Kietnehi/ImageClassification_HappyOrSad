@@ -1,0 +1,16 @@
+pandas
+numpy
+opencv-python
+tensorflow
+keras
+matplotlib
+scikit-learn
+seaborn
+torch
+torchvision
+torchtext
+torchsummary
+pillow
+os
+streamlit
+base64io
